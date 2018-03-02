@@ -5,3 +5,4 @@ matplotlib==1.5.1
 pillow==2.7.0
 scipy==0.18.1
 skimage
+sklearn
